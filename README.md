@@ -55,7 +55,7 @@ Follow these steps to run this Weather App using Docker:
 1. **Clone this repository:**
     
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/sanjeetha77/weather-app-with-docker.git
     cd docker
     ```
     
