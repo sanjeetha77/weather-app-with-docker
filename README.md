@@ -79,3 +79,6 @@ Follow these steps to run this Weather App using Docker:
 ---
 
 ## 📸 Screenshots
+
+![WhatsApp Image 2025-06-03 at 2 06 53 PM (1)](https://github.com/user-attachments/assets/0af17773-a90b-4c1a-b840-ebd47a357d00)
+![WhatsApp Image 2025-06-03 at 2 06 53 PM](https://github.com/user-attachments/assets/24d5cb8a-4bc7-4303-af12-82f38316d5fb)
