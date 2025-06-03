@@ -1,0 +1,15 @@
+# Ignore API keys or secret config files (if you add any)
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Docker files
+*.pid
